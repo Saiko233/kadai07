@@ -34,7 +34,7 @@ function App() {
   return (
     <div className="wrap">
       <header>
-        <img src="public/kira.jpeg" />
+        <img src="../public/kira.jpeg" />
         <div className="name">
           <h2>MY PROFILE</h2>
           <h3>
